@@ -4,7 +4,7 @@ pipeline {
         stage('Static Analysis') {
             steps {
                 echo 'Run the static analysis to the code' 
-                echo 'Hello,seedhita chavan !'
+                echo 'Hello,welcome to devops !'
             }
         }
         stage('Compile') {
